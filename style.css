@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+   
+  }
+  .containor{
+    background: #5960B3;
+    width: 100vw;
+   
+    text-align: center;
+    border-radius: 10px;
+  }
+  input{
+    padding: 20px ;
+    font-size: 20px;
+    background: white;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    
+  }
+  .inputbox{
+    display: inline-block;
+    margin: 10px;
+   
+  }
+  label{
+    font-size: 30px;
+    font-weight: bold;
+    color: red;
+  }
